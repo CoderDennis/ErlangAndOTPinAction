@@ -1,0 +1,4 @@
+%% encoding: UTF-8
+{application,tcp_rpc}.
+{packages,[]}.
+{modules,[tr_app,tr_server,tr_sup]}.

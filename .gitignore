@@ -1,0 +1,7 @@
+*~
+*tmp
+*.beam
+/lib/json_parser/yajl
+.rebar
+*.dump
+*.gz
